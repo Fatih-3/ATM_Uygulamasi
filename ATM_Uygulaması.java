@@ -41,7 +41,7 @@
 	                    break;
 	                case 4:
 	                    System.out.println("Çıkış yapılıyor. İyi günler!");
-	                    System.exit(0);
+	                    System.exit(secim);
 	                    break;
 	                default:
 	                    System.out.println("Geçersiz bir seçim yaptınız. Lütfen tekrar deneyin.");
